@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BA114985-5EED-4BBF-BA57-E30220217034"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69ACC5C1-4EEF-4415-9A9B-6C15FEB1C6A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vision Framework: Homework/ImageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
+            landmarkName = "drawFeatureBoundingBoxes(_:in:imageSize:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "69ACC5C1-4EEF-4415-9A9B-6C15FEB1C6A7 - a820903fd3da0d19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vision_Framework_Homework.ImageViewModel.drawFeatureBoundingBoxes(_: Vision_Framework_Homework.FaceLandmarks, in: __C.CGContextRef, imageSize: __C.CGSize) -&gt; ()"
+                  moduleName = "Vision Framework Homework.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stshelton/Documents/Apple%20Intelligence%20Kodeco%20course/Vision%20Framework:%20Homework/Vision%20Framework:%20Homework/ImageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275">
+               </Location>
+               <Location
+                  uuid = "69ACC5C1-4EEF-4415-9A9B-6C15FEB1C6A7 - a820903fd3da0d19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vision_Framework_Homework.ImageViewModel.drawFeatureBoundingBoxes(_: Vision_Framework_Homework.FaceLandmarks, in: __C.CGContextRef, imageSize: __C.CGSize) -&gt; ()"
+                  moduleName = "Vision Framework Homework.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stshelton/Documents/Apple%20Intelligence%20Kodeco%20course/Vision%20Framework:%20Homework/Vision%20Framework:%20Homework/ImageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
