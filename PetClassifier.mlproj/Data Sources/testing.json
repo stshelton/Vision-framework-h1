@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-11-12T02:35:21Z",
+        "event" : "dataSourceCreated",
+        "id" : "506DE9F7-1022-424D-879E-0FCC07DFD329",
+        "subtitle" : "testing",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2025-11-12T02:35:21Z",
+  "dataPathRelativeToProjectURL" : "../../../Downloads/m3-cml-materials-versions-2.0/dog%20/testing/",
+  "dataResult" : {
+    "createdDate" : "2025-11-12T02:35:21Z",
+    "dataSourceID" : "EE32F732-45A9-4AC4-AF90-224A5DBFB481",
+    "dataURL" : "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/testing/"
+  },
+  "dataURL" : "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/testing/",
+  "experimentIDs" : [
+    "56D13C53-B977-4CD9-8200-6A1205145DEC"
+  ],
+  "id" : "EE32F732-45A9-4AC4-AF90-224A5DBFB481",
+  "modifiedDate" : "2025-11-12T02:35:21Z",
+  "pathType" : 0,
+  "preferredFilename" : "testing",
+  "title" : "testing",
+  "version" : "1.0"
+}

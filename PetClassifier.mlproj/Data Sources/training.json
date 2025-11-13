@@ -1,0 +1,1552 @@
+{
+  "activityEntities" : [
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2025-11-12T02:35:29Z",
+        "event" : "dataSourceMetrics",
+        "id" : "E94002AC-7B94-446B-BFC4-8E70BF720065",
+        "subtitle" : "3 Classes, 365 Items",
+        "title" : "Data Summary"
+      }
+    ],
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-11-12T02:35:16Z",
+        "event" : "dataSourceCreated",
+        "id" : "DA5979B3-D98F-4C1C-A0C1-C9E7F903BF4D",
+        "subtitle" : "training",
+        "title" : "Data Source Created"
+      }
+    ],
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2025-11-12T02:35:29Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "8017A478-4F45-4400-8C87-5CBAF9E8C0CB",
+        "subtitle" : "PetClassifier 1",
+        "title" : "Used By"
+      }
+    ]
+  ],
+  "createdDate" : "2025-11-12T02:35:16Z",
+  "dataPathRelativeToProjectURL" : "../../../Downloads/m3-cml-materials-versions-2.0/dog%20/training/",
+  "dataResult" : {
+    "classesCount" : 3,
+    "createdDate" : "2025-11-12T02:35:16Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+        "details" : [
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4731.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_208.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3395.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7393.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7419.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11074.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_653.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_125.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1560.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_10481.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3527.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_836.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5669.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_12460.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4129.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_6270.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4072.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5367.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5752.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1626.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3544.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3464.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_10774.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_7608.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_10651.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_644.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2946.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5596.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_12139.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5319.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2953.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_13839.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8064.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4955.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_328.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_895.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_12160.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2670.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5753.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9125.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1619.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_225.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_13340.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4440.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3557.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_38.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_971.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5043.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4063.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_11207.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1575.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1003.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_10588.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_395.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_12232.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5222.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_12760.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_522.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4002.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4119.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6310.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_9724.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8611.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3248.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2980.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4217.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2007.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5928.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_10229.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4989.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3913.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2681.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5599.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9202.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_2862.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6130.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11415.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2807.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6402.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_7853.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3269.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1137.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5614.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_311.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_12618.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5096.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4066.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_9508.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5337.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_656.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_759.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3547.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2741.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_6521.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_716.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_623.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2514.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_7115.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9399.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4239.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_696.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_107.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1775.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9530.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1072.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11687.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_849.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3669.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_149.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1958.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1114.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4214.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5458.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_200.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_12739.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2279.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3129.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_160.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_8696.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8776.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_14112.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6965.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5201.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_530.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_9084.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2831.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5710.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_12642.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4160.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_3969.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4486.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6286.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_553.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7430.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1465.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3412.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_6429.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_11550.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6272.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4500.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5301.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6910.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5754.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8116.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_813.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11564.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2355.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_117.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_9317.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7473.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_8604.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1571.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_2725.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11870.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3153.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2608.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_11220.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_6583.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_6142.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2917.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8166.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3258.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_7319.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11032.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_78.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4303.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_2832.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_12827.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_625.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_268.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_13898.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1675.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4901.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_2197.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_198.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2118.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9899.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1672.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11354.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3766.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_7883.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11807.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_10901.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5266.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2835.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2570.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_12319.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5667.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2367.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5087.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4785.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4158.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5311.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_481.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6978.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_12409.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6900.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6424.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1690.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_15432.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1513.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4372.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3369.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_7259.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8595.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_12288.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_8739.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9457.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_7266.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_110.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_57.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_8425.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_122.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5423.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_895.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_69.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2432.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1748.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4076.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8146.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_3313.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_11335.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_977.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1612.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3988.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1654.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1367.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11002.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11444.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1912.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_770.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6599.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_6418.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8437.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_14659.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8994.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_6008.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_7456.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_12828.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3346.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4860.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3083.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_142.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8383.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2380.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6926.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_3610.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_571.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_13034.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3899.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4193.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_9432.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_13526.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7616.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3665.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6074.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3640.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_922.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7767.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9804.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4991.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3098.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2603.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_10375.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2756.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_15702.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_6008.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2653.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1871.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_982.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3520.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_1591.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3575.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_6192.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2360.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_10714.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1956.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_9045.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_6462.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2718.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7003.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4477.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3236.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_1974.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_11327.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_8969.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3880.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2391.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1757.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11203.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_7806.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4079.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1119.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8887.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_8923.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4176.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3557.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1895.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11762.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_341.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4474.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8652.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2056.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11001.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_720.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_9076.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_9666.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11097.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3300.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3162.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_8258.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1418.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3398.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1355.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4603.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11616.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_10939.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_11728.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_1388.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4133.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_4776.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3702.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2526.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4339.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3028.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1188.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_485.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2791.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_12438.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3258.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1031.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_14074.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2307.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_2899.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_6223.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_10204.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_12738.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_350.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_8024.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5306.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1859.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5184.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_1343.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_5271.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_618.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_14719.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_4962.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_9348.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_6295.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1511.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_4681.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_3400.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2106.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_2301.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_1353.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/rottweiler/n02106550_7608.jpg",
+          [
+            "rottweiler"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_5813.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_5977.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2796.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3382.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_11122.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2723.jpg",
+          [
+            "boxer"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/french%20bulldog/n02108915_3140.jpg",
+          [
+            "french bulldog"
+          ],
+          "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/boxer/n02108089_2482.jpg",
+          [
+            "boxer"
+          ]
+        ],
+        "labelStats" : {
+          "boxer" : 131,
+          "french bulldog" : 139,
+          "rottweiler" : 95
+        }
+      },
+      "issues" : [
+        {
+          "description" : "3 classes found, including french bulldog, boxer, rottweiler",
+          "severity" : "debug"
+        },
+        {
+          "description" : "365 images found, automatically creating validation set",
+          "severity" : "good"
+        },
+        {
+          "description" : "Smallest class is \"rottweiler\" with 95 images",
+          "severity" : "debug"
+        },
+        {
+          "description" : "Largest class is \"french bulldog\" with 139 images",
+          "severity" : "debug"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "classCount" : 3,
+        "sampleCount" : 365
+      }
+    },
+    "dataSourceID" : "7BD06B8D-076D-40E0-BE6E-648F379855EC",
+    "dataURL" : "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/",
+    "itemsCount" : 365
+  },
+  "dataURL" : "file:///Users/stshelton/Downloads/m3-cml-materials-versions-2.0/dog%20/training/",
+  "experimentIDs" : [
+    "56D13C53-B977-4CD9-8200-6A1205145DEC"
+  ],
+  "id" : "7BD06B8D-076D-40E0-BE6E-648F379855EC",
+  "modifiedDate" : "2025-11-13T23:02:14Z",
+  "pathType" : 0,
+  "preferredFilename" : "training",
+  "title" : "training",
+  "version" : "1.0"
+}

@@ -14,6 +14,7 @@ struct Vision_Framework__HomeworkApp: App {
     
     var body: some Scene {
         WindowGroup {
+            TabView {
                 NavigationStack {
                     FacesView(viewModel: .init(photoPickerViewModel: photoPickerViewModel))
                         .toolbar {
@@ -29,6 +30,27 @@ struct Vision_Framework__HomeworkApp: App {
                             }
                         }
                 }
+                .tabItem {
+                    Label("Faces", systemImage: "face.smiling")
+                }
+                .tag(0)
+
+                NavigationStack {
+                    TranslationView()
+                }
+                .tabItem {
+                    Label("Translation", systemImage: "character.book.closed")
+                }
+                .tag(1)
+                
+                NavigationStack {
+                    PetDetectionView()
+                }
+                .tabItem {
+                    Label("Pet Detection", systemImage: "pawprint")
+                }
+                .tag(2)
+            }
         }
     }
 }

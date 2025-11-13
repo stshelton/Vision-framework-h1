@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-11-12T02:12:14Z",
+        "event" : "projectCreated",
+        "id" : "ED1D3597-F1EE-4654-9C36-3A444944600A",
+        "subtitle" : "PetClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Spencer Shelton",
+  "createdDate" : "2025-11-12T02:12:14Z",
+  "description" : "",
+  "id" : "D2FB43DF-C4A9-498C-B68A-3E6CBF08C6CA",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-11-12T02:12:14Z",
+  "projectName" : "PetClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "imageClassifier",
+  "title" : "Image Classification",
+  "version" : "1.1"
+}
